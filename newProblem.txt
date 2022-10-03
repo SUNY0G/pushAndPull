@@ -4,3 +4,12 @@ them to, it's going to be a problem, big problem.
 Gonna make some changes locally.
 
 YEAHHHH it's not a problem
+
+
+
+
+
+Gonna make some changes here as well - locally
+So we changed files on github, which are local
+repo don't know and we made some changes here locally
+which out remote repo don't know.

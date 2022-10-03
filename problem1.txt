@@ -1,3 +1,4 @@
 Hello How are you?  doing well. changing - locally
 let's kick this pushAndPull probem out - changing on github
-There changes are made -locally
+These changes are made - locally I
+These changes are made - locally II

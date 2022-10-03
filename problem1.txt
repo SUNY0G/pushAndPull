@@ -1,2 +1,3 @@
-Hello How are you? Hope you are doing well. changing - locally
+Hello How are you?  doing well. changing - locally
 let's kick this pushAndPull probem out - changing on github
+Some changes again.

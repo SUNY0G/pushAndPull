@@ -1,4 +1,6 @@
-Hello How are you?  doing well. changing - locally
+How are you?  doing well. changing - locally
 let's kick this pushAndPull probem out - changing on github
 These changes are made - locally I
 These changes are made - locally II
+There changes are made -locally
+These changes will be made - github
